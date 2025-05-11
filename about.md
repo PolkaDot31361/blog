@@ -4,12 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+These Posts are about the book Principle of Mathematical Analysis by Walter Rudin.  
+I personally hope to cover the whole book within a few year but who knows how long it will take.  
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[polkadot313610@gamil.com](mailto:polkadot313610@gmail.com)
